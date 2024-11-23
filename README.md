@@ -51,7 +51,7 @@ This directory contains Python scripts that handle the kinematic calculations fo
 
 - **FK.py**: Implements the forward kinematics for the robotic arm.
 - **IK.py**: Implements the inverse kinematics for the robotic arm.
-- **Solver3R.py**: Solves the kinematic equations for a 3R robotic arm (3 Revolute joints).
+- **Solver4R.py**: Solves the kinematic equations for a 4R robotic arm (4 Revolute joints).
 - 
 ### allPossiblePoints
 It generates a graph of all possible end effector accessible points
